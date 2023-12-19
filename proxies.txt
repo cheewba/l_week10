@@ -1,0 +1,2 @@
+# list of proxies in format
+# socks5|http://login:pass@host:port

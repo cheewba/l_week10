@@ -1,0 +1,1 @@
+-e git+https://github.com/cheewba/w3ext.git@main#egg=w3ext
